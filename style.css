@@ -261,6 +261,14 @@ header .navbar ul li a:hover{
     color:#eee;
     padding:0 .5rem;
 }
+
+.project .row .info p{
+    color:#eee;
+    font-size: 1.8rem;
+    line-height: 1.8rem;
+    padding:0 .5rem;
+}
+
 .project .row .info h3 div{
     color:#eee;
     padding:0 .5rem;
